@@ -1,12 +1,13 @@
-Sistema de Gerenciamento de Clientes
+##Sistema de Gerenciamento de Clientes
 Este é um sistema simples de gerenciamento de clientes construído com JavaScript. Ele permite criar, ler, atualizar e excluir informações de clientes. O sistema utiliza o armazenamento local (local storage) para armazenar os dados dos clientes, de forma que as informações persistirão mesmo se a página for atualizada.
 
-Recursos
+##Recursos
 Adicionar novos clientes com seus nomes, emails, telefones celulares e cidades.
 Editar informações de clientes existentes.
 Excluir clientes do sistema.
 Visualizar uma tabela de todos os clientes com seus detalhes.
-Começando
+
+##Começando
 Para usar o sistema de gerenciamento de clientes, siga estes passos:
 
 Clone o repositório para a sua máquina local.
@@ -17,11 +18,13 @@ Preencha os campos obrigatórios (nome, email, telefone celular e cidade) e cliq
 Para editar um cliente, clique no botão "editar" ao lado das informações do cliente na tabela. O modal será aberto com os detalhes do cliente preenchidos.
 Para excluir um cliente, clique no botão "excluir" ao lado das informações do cliente na tabela. Uma caixa de diálogo de confirmação aparecerá antes de excluir o cliente.
 A tabela será atualizada automaticamente após adicionar, editar ou excluir um cliente.
-Estrutura do Projeto
+
+##Estrutura do Projeto
 index.html: O arquivo HTML que define a estrutura da interface do sistema de gerenciamento de clientes.
 style.css: O arquivo CSS que estiliza a interface do sistema de gerenciamento de clientes.
 main.js: O arquivo JavaScript que contém a lógica do sistema de gerenciamento de clientes.
-Tecnologias Utilizadas
+
+##Tecnologias Utilizadas
 HTML
 CSS
 JavaScript
